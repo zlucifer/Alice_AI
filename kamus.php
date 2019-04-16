@@ -13,7 +13,7 @@ error_reporting(0);
 ///////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////
 // contoh kamus bot 
-// silahkan di custom sendiri :)
+// silahkan di custom sendiri :) 
 */
 $bads = array("motherfucker","fucker","pelacur","sempak","anjeng","pentil","colmek","mia khalifa","gblk","bego","colly","kampang","eek","bacod","bacot","bacok","memek","waria","ewe","kamvret","ndasmu","kampret","bodoh","sex","fck","coli","nekopoi","sue","pekok","goblok","wtf","pler","anjing","babi","lotnok","fuck","najis","mati","gila","pukimak","tai","taik","bangsat","kontol","ngentot","tod","tolol","goblok","asu","njeng");
 $sapa = array("woy","halo","hai","hi","hy");
